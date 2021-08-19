@@ -1,4 +1,11 @@
-Script run on termux 
+# ~ [√] THIS COMMANDS IS WITHOUT LOGIN FOR PAKISTAN INDIA SUADIA AND INDONESIA COUNTRY 
+# √• AND LOGIN TOOL FOR ALL COUNTRIES  OTHER COUNTRIES PEOPLE USE PROXY 
+
+
+
+
+
+# Script run on termux 
 ``` python
 pkg update
 
@@ -30,8 +37,8 @@ pkg update
 
 # Tool User And Pass
 ```
-➤ *Username : No Need
-➤ *Password : No Need
+➤ *Username : MOHSIN
+➤ *Password : SYCO
 
 # WARNING :
 `THIS TOOL IS ONLY FOR EDUCATIONAL PURPOSE.
